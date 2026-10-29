@@ -1,4 +1,3 @@
-from ui import ui
+from ui import render_app
 
-if __name__ == "__main__":
-    ui()    
+render_app()
